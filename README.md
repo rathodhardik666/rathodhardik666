@@ -37,8 +37,8 @@ I have 2.5+ years of experience in the field. My journey began with intensive tr
 A challenging role where I can apply my expertise and continue learning while contributing to the success of dynamic projects.
 
 ### 🌐 Socials:
-[![Email](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=0774db)](mailto:vivekthummar90@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedIn&logoColor=0EA5E9)](https://www.linkedin.com/in/vivek-thummar-a2a956269/)
+[![Email](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=0774db)](mailto:rathodhardik20205@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedIn&logoColor=0EA5E9)](https://www.linkedin.com/in/hardik-rathod-11bb5520/)
 
 
 ### :handshake: Let's collaborate and innovate together to drive success!
